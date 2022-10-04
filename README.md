@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amalrajbr
 - 👀 I’m interested in web development Python/Django, Erlang/Mochiweb/Cowboy, Elixir/Phoenix
-- 🌱 I’m currently learning Bootstrap, AWS, MERN
+- 🌱 I’m currently learning Bootstrap, React.
 - 💞️ I’m looking to collaborate on any of the above.
 - 📫 Reach me at amalrajbrr@gmail.com
 
